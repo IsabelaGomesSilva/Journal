@@ -1,0 +1,33 @@
+Personal Journal 
+- User 
+    Id 
+    Name
+    Password 
+    Email 
+
+- Goal
+    Id 
+    Name
+    Description
+    StartDate
+    LimitDate
+    IdLevels
+    IdUser
+
+- Level
+    Id 
+    Description 
+
+- Note
+    Id
+    CurrentDate
+    Name
+    Description
+    IdUser
+  
+- Remimder
+    Id 
+    LarmDate
+    Name 
+    Description
+    IdUser
